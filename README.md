@@ -43,6 +43,10 @@ This bookmarklet provides a quick and convenient way to access GeoGebra's Scient
 The bookmarklet will remember its state (size, position, etc.) for the next time you use it on the same website.
 
 
+## Note
+
+Some websites implement Content Security Policies (CSP) that prevent injecting arbitrary HTML or JavaScript into their pages. This is a security feature designed to protect users from cross-site scripting (XSS) attacks. Unfortunately bookmarklets would **not** work on those sites. (You could remake this into an extension though!)
+
 ## Credits
 
 This was made for a YSWS program (Hacklet) from Hack club. Thank you for the awesome idea!!!
