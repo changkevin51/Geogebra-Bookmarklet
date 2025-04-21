@@ -2,9 +2,13 @@
 
 ## What is a Bookmarklet?
 
-A bookmarklet is a small piece of JavaScript code stored as a browser bookmark. When you click the bookmark, the browser runs the JavaScript code on the current web page. This allows you to add custom functionality to your browser without installing extensions.
+A bookmarklet is a small piece of JavaScript code stored as a browser bookmark (looks just like any other one). When you click the bookmark, the browser runs the JavaScript code on the current web page. This allows you to add custom functionality to your browser without installing extensions.
 
 ## What Does This Bookmarklet Do?
+
+<kbd> <img src="https://github.com/user-attachments/assets/0af031c6-b521-43a3-b659-ba7fa018a6e5" width="700"/> </kbd>
+<br>
+_A snapshot of a customizable GeoGebra app window that aids with my math homework, accessible after clicking the bookmark(let)_
 
 This bookmarklet provides a quick and convenient way to access GeoGebra's Scientific and Graphing calculators directly from any webpage. It creates a floating, draggable, and resizable window containing the selected GeoGebra calculator embedded via an iframe.
 
@@ -25,7 +29,7 @@ This bookmarklet provides a quick and convenient way to access GeoGebra's Scient
 2.  **Click `Run Code`:** The calculator should pop up right away. If you're satisfied, continue to the next step.
 3.  **Name:** Give the bookmark a name, for example, `GeoGebra Calc`.
 4.  **Drag the bookmarklet to the bookmark bar:** Drag the red button with the name you just set onto the the bookmark bar (at the top of the page).
-5.  **Boom! Your all set!:** Click on the bookmarklet when you need to use the handy geogebra calculator. A convenient app should popup on any webpage.
+5.  **Boom! You're all set!:** Click on the bookmarklet when you need to use the handy geogebra calculator. A convenient app should popup on any webpage.
 
 ## How to Use
 
